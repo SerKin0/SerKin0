@@ -25,6 +25,6 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SerKin0&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/SerKin0">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerKin0&layout=compact&theme=radical" />
+    <img width="37.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerKin0&layout=compact&theme=radical" />
   </a>
 </div>
