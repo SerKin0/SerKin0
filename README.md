@@ -15,16 +15,3 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28">
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <a href="https://github.com/SerKin0">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SerKin0&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/SerKin0">
-    <img width="37.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerKin0&layout=compact&theme=radical" />
-  </a>
-</div>
